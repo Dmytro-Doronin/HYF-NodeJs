@@ -117,6 +117,6 @@ When logging out, the token is removed from `localStorage` and the user is redir
 
 The process is illustrated in the diagram below.
 
-![client-date-diagram](./assets/client-state-diagram.png)
+![client-date-diagram](assets/client-state-diagram.png)
 
 The client code logs debug information in the browser console. This may help you to follow the application flow as you navigate through its pages.
